@@ -1,0 +1,81 @@
+# Career-Ops Profile Configuration
+
+candidate:
+  full_name: "Tzu-Li (Yoko) Yang"
+  email: "ryone520@gmail.com"
+  phone: "+60 18-291 7622"
+  location: "Kuala Lumpur, Malaysia"
+  linkedin: "linkedin.com/in/tzuli-yang"
+  portfolio_url: ""
+  github: "github.com/Yoko5566"
+  twitter: ""
+  photo: ""
+  photo_style: rounded
+
+target_roles:
+  primary:
+    - "Technical Account Manager"
+    - "Technical Support Engineer"
+    - "Support Escalation Manager"
+    - "Enterprise Support / Service Delivery"
+  archetypes:
+    - name: "Technical Account Manager"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Technical Support Engineer"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Support Escalation Manager"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Customer Success / Enterprise Support"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Cloud Support / Solutions"
+      level: "Mid"
+      fit: "adjacent"
+
+narrative:
+  headline: "Enterprise incident and support operations professional moving toward direct-hire technical account and cloud support roles"
+  exit_story: "Built customer-facing experience across Google programs and Microsoft enterprise support, with increasing ownership of escalations, incident coordination, stakeholder communication, and service operations. Now targeting direct-hire roles where that enterprise support experience can expand into deeper technical account ownership and cloud support."
+  superpowers:
+    - "Enterprise incident coordination and escalation ownership"
+    - "Clear bilingual customer and stakeholder communication"
+    - "Cross-functional coordination across engineering, support, and account teams"
+    - "Business-impact and severity framing"
+    - "Structured case follow-through and service operations"
+  proof_points: []
+
+compensation:
+  target_range: "Role-dependent; assess against Taiwan market and total package"
+  currency: "TWD"
+  minimum: "Not fixed"
+  location_flexibility: "Targeting Taiwan direct-hire full-time roles; open to Taipei and other Taiwan locations"
+
+location:
+  country: "Taiwan"
+  city: "Taipei"
+  timezone: "Asia/Taipei"
+  visa_status: "Taiwanese citizen; no sponsorship required in Taiwan"
+  authorized_in: ["Taiwan"]
+  needs_sponsorship: true
+
+language:
+  output: en
+
+spend_tier: standard
+page_format: a4
+
+cv:
+  output_format: "html"
+  sections: [summary, competencies, experience, projects, education, certifications, skills]
+
+cover_letter:
+  primary_domain: "enterprise support and service operations"
+
+contact_preferences:
+  preferred_channel: "email"
+
+application_email:
+  include_contact_block: true
+  include_attachment_checklist: true
